@@ -15,6 +15,7 @@ Java based hand cricket with simple and extended players support.
 
 ### Simple Hand Cricket - Run :
 
+```sh
 Players: Dravid, Sachin
 No of Overs: 1
 
@@ -35,9 +36,11 @@ Sachin throws 4 , Dravid throws 3. Sachin's score is 16
 Sachin throws 1 , Dravid throws 3. Sachin's score is 17
 
 Game Winner is Sachin
+```
 
 ### Extended Hand Cricket - Run :
 
+```sh
 Players: Dravid, Sachin, Kholi, Dhoni
 No of Overs: 2
 
@@ -75,3 +78,4 @@ Over 1
 Dhoni throws 4 , Dravid throws 4. Dhoni's Out & Total Score is 0
 
 The winning player is  Kholi
+```
